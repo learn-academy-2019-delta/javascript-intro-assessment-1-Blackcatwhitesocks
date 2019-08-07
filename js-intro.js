@@ -54,9 +54,11 @@ console.log(arr);
 
 // 2c. Stretch: Write a function that returns the two variables in all lowercase letters.
 
+function toLowerCase(myDog1,myCat){
+console.log(myDog.toLowerCase())
+console.log(myCat.toLowerCase())
+}
 
-let arr1 = [myDog.toLowerCase(), myCat.toLowerCase()]
-console.log(arr1);
 
 
 // -----------------------------------------------
