@@ -20,15 +20,15 @@
 
 // 1d. Stretch: Write a function that can take any letter as an argument and returns if it exists within the given string.
 
-// function anyLetter(letter) {
-//     var mantra = "Be the dev" 
-//   if (mantra.includes(letter)) {
-//     return `The string includes ${letter} letter`;
+// function anyLetter(string, letter) {
+
+//   if (string.includes(letter)) {
+//     return `The ${string} includes ${letter} letter`;
 //   } else {
-//     return `There is no ${letter} in the string`;
+//     return `There is no ${letter} in the ${string}`;
 //   }
 // }
-// console.log(anyLetter("i"));
+// console.log(anyLetter(mantra, "i"));
 
 // Consider the following variables:
 
